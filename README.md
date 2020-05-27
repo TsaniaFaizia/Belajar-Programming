@@ -2,7 +2,7 @@
 
 File-file berikut dapat dibuka/dicoba di https://www.onlinegdb.com
 
-File createJSON.php digunakan untuk membuat file berformat JSON yang menerima dua parameter yakni String (untuk nama) dan angka (untuk umur), lalu ​me-return biodata​, dengan ketentuan sebagai berikut:
+File createJSON.php digunakan untuk membuat file berformat JSON yang menerima dua parameter yakni String (untuk nama) dan Number (untuk umur), lalu ​me-return biodata​, dengan ketentuan sebagai berikut:
 ● name (String, diambil dari parameter pertama)
 ● age (Number, diambil dari parameter ke dua)
 ● address (String)
