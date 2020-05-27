@@ -3,14 +3,14 @@
 File-file berikut dapat dibuka/dicoba di https://www.onlinegdb.com
 
 File createJSON.php digunakan untuk membuat file berformat JSON yang menerima dua parameter yakni String (untuk nama) dan Number (untuk umur), lalu ​me-return biodata​, dengan ketentuan sebagai berikut:
-1. name (String, diambil dari parameter pertama)
-2. age (Number, diambil dari parameter ke dua)
-3. address (String)
-4. hobbies (Array)
-5. is_married (Boolean)
-6. list_school (Array of Object) with key name, year_in, year_out, and major (if any, if no set “null” )
-7. skills (Array of Object) with key skill_name and level (beginner, advanced, expert)
-8. interest_in_coding (Boolean)
+1. name (String, diambil dari parameter pertama);
+2. age (Number, diambil dari parameter ke dua);
+3. address (String);
+4. hobbies (Array);
+5. is_married (Boolean);
+6. list_school (Array of Object) with key name, year_in, year_out, and major (if any, if no set “null” );
+7. skills (Array of Object) with key skill_name and level (beginner, advanced, expert);
+8. interest_in_coding (Boolean).
 
 File validasi.js digunakan untuk memvalidasi username dan password dengan ketentuan:
 1. Format username​: harus berawalan dengan simbol “@”. Memiliki jumlah karakter maksimal 12 karakter (termasuk simbol “@”) dan minimal 2 karakter (termasuk simbol “@”). Tidak boleh menggunakan simbol apapun selain “@” di awal.
@@ -27,6 +27,6 @@ File validasi2.js digunakan untuk memvalidasi username dan password dengan keten
 2. Format password: password terdiri dari 9 digit karakter dengan kombinasi minimal 1 simbol dan 1 angka.
 
 File createSegitiga2.cpp digunakan untuk membentuk sebuah segitiga siku-siku terbalik dengan ketentuan sebagai berikut:
-1. Parameter berupa 2 bilangan bulat positif (A,B) dimana A <= B
-2. Segitiga dibentuk dengan deret bilangan genap yang nilainya berada diantara A dan B (A dan B termasuk)
+1. Parameter berupa 2 bilangan bulat positif (A,B) dimana A <= B;
+2. Segitiga dibentuk dengan deret bilangan genap yang nilainya berada diantara A dan B (A dan B termasuk);
 3. Output berupa segitiga siku-siku terbalik.
