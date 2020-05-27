@@ -16,14 +16,8 @@ File validasi.js digunakan untuk memvalidasi username dan password dengan ketent
 1. Format username​: harus berawalan dengan simbol “@”. Memiliki jumlah karakter maksimal 12 karakter (termasuk simbol “@”) dan minimal 2 karakter (termasuk simbol “@”). Tidak boleh menggunakan simbol apapun selain “@” di awal.
 2. Format password​: hanya boleh mengandung angka. Memiliki jumlah karakter minimal 6 dan maksimal 6.
 
-File createSegitiga.cpp digunakan untuk membuat segitiga sama kaki, seperti berikut:
-
-                   *
-               *   *   *
-           *   *   *   *   *
-       *   *   *   *   *   *   *
-   *   *   *   *   *   *   *   *   * 
-
+File createSegitiga.cpp digunakan untuk membuat segitiga sama kaki yang tingginya 5 satuan.
+               
 File matriks.cpp digunakan untuk membuat matriks ordo 3 x 3 yang berisi bilangan acak dari 1-99. Kemudian menjumlahkan bilangan tersebut secara diagonal.
 
 File vokal.cpp digunakan untuk menghitung banyaknya huruf vokal pada suatu kata/kalimat.
