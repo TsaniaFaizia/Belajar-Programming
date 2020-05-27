@@ -21,7 +21,7 @@ File createSegitiga.cpp digunakan untuk membuat segitiga sama kaki, seperti beri
                    *
                *   *   *
            *   *   *   *   *
-       *   *   *   *   *   *    *
+       *   *   *   *   *   *   *
    *   *   *   *   *   *   *   *   * 
 
 File matriks.cpp digunakan untuk membuat matriks ordo 3 x 3 yang berisi bilangan acak dari 1-99. Kemudian menjumlahkan bilangan tersebut secara diagonal.
