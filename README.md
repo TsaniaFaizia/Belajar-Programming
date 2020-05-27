@@ -23,3 +23,12 @@ File createSegitiga.cpp digunakan untuk membuat segitiga sama kaki, seperti beri
 File matriks.cpp digunakan untuk membuat matriks ordo 3 x 3 yang berisi bilangan acak dari 1-99. Kemudian menjumlahkan bilangan tersebut secara diagonal.
 
 File vokal.cpp digunakan untuk menghitung banyaknya huruf vokal pada suatu kata/kalimat.
+
+File validasi2.js digunakan untuk memvalidasi username dan password dengan ketentuan:
+● Format username: username harus diawali huruf kecil, tidak boleh ada huruf besar, tidak boleh menggunakan special character kecuali ‘ . ’ (titik) dan ‘ _ ’ (underscore), minimal 8 karakter dan maksimal 12 karakter.
+● Format password: password terdiri dari 9 digit karakter dengan kombinasi minimal 1 simbol dan 1 angka.
+
+File createSegitiga2.cpp digunakan untuk membentuk sebuah segitiga siku-siku terbalik dengan ketentuan sebagai berikut:
+1. Parameter berupa 2 bilangan bulat positif (A,B) dimana A <= B
+2. Segitiga dibentuk dengan deret bilangan genap yang nilainya berada diantara A dan B (A dan B termasuk)
+3. Output berupa segitiga siku-siku terbalik.
